@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mariapaulinar/test-hola-mundo#readme",
   "dependencies": {
+    "querystring": "^0.2.0",
     "serverless-offline": "^4.9.4"
   }
 }
